@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aya-tullah Essam-eldien</h1>
-<h3 align="center">A Computer science student who's seeking to improve my skills </h3>
 
 - 📫 How to reach me **aya.es.kh@gmail.com**
 
